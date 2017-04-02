@@ -1,7 +1,7 @@
-package rpg_lab;
+package lab;
 
-import interfaces.Target;
-import interfaces.Weapon;
+import lab.interfaces.Target;
+import lab.interfaces.Weapon;
 
 public class Axe implements Weapon{
 

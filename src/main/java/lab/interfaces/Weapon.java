@@ -1,4 +1,4 @@
-package interfaces;
+package lab.interfaces;
 
 public interface Weapon {
 

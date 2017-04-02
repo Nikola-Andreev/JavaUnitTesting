@@ -1,13 +1,11 @@
-package tests;
+package lab;
 
-import interfaces.Target;
-import interfaces.Weapon;
+import lab.interfaces.Target;
+import lab.interfaces.Weapon;
 import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
-import rpg_lab.Axe;
-import rpg_lab.Dummy;
 
 public class AxeTests {
 

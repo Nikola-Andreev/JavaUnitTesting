@@ -1,9 +1,8 @@
-package tests;
+package lab;
 
 import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import rpg_lab.Dummy;
 
 public class DummyTests {
 

@@ -1,6 +1,6 @@
-package rpg_lab;
+package lab;
 
-import interfaces.Target;
+import lab.interfaces.Target;
 
 public class Dummy implements Target{
 
